@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.card1:hover{
+    background-color: red;
+    color: white;
+    transform: scaleX(4,4);
+}
+.card2:hover{
+    background-color: red;
+    color: white;
+}
+.card3:hover{
+    background-color: red;
+    color: white;
+}
+.card4:hover{
+    background-color: red;
+    color: white;
+}
+.card5:hover{
+    background-color: red;
+    color: white;
+}
+.card6:hover{
+    background-color: red;
+    color: white;
+}
+.myheight{
+    height: 100vh;
+}
+footer{
+    background-color: #131313;
+    color: white;
+}
+.be{
+    color: blue;
+}
